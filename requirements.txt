@@ -1,0 +1,14 @@
+conda create -n gpt_env python=3.9
+source activate gpt_env
+conda install pip
+pip3 install torch torchvision torchaudio
+pip install pandas
+pip install seaborn
+pip install deeplake
+pip install opencv-python
+pip install -U scikit-learn
+pip install numba
+pip install ipywidgets
+pip install gdown
+pip install tiktoken
+pip install datasets
