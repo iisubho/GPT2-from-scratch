@@ -1,4 +1,4 @@
-You need to install the following dependencies in order to tran the gpt2(with a small modification) model from scratch.
+You need to install the following dependencies in order to train the gpt2(with a small modification) model from scratch.
 ```
 conda create -n gpt_env python=3.9
 source activate gpt_env
